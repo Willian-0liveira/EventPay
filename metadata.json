@@ -1,0 +1,7 @@
+{
+  "name": "EventPay",
+  "description": "Plataforma completa para gestão e venda de ingressos de eventos para clientes e empresas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
